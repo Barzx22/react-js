@@ -1,0 +1,59 @@
+how to intall react js
+explanation
+Before continuing how to install, I will explain first. 
+React JS was created by a software engineer at the Facebook company named Jordan Walke,
+React was first introduced in 2011 for use within Facebook,
+and released open source in May 2013.
+
+Before installing it, you have to install Node JS first https://nodejs.org/dist/v20.15.1/node-v20.15.1-x64.msi
+
+first step
+
+first create a folder for example "project react", 
+after that open cmd in that folder then type this " npx create-react-app my-app "
+"my-app" is the name of your React JS project
+
+After installation, open the project directory by 
+running the following command at the command prompt, " cd my-app "
+
+
+after that type "npm start" to run the server.
+
+If this method doesn't work, use the second method
+
+
+install " npm install -g react react-dom " in cmd
+then type "npx create-react-app my-app"
+and go to the project directory then type " cd my-app " in cmd
+type "npm start" to start the server
+
+bahasa indonesia 
+
+cara menginstal reaksi js
+penjelasan
+Sebelum melanjutkan cara instalasinya, saya akan menjelaskannya terlebih dahulu. 
+React JS dibuat oleh seorang software engineer di perusahaan Facebook bernama Jordan Walke,
+React pertama kali diperkenalkan pada tahun 2011 untuk digunakan dalam Facebook,
+dan merilis open source pada Mei 2013.
+
+Sebelum menginstalnya, Anda harus menginstal Node JS terlebih dahulu https://nodejs.org/dist/v20.15.1/node-v20.15.1-x64.msi
+
+Langkah pertama
+
+pertama buat folder misalnya "project react", 
+setelah itu buka cmd di folder tersebut lalu ketikkan ini "npx create-react-app my-app"
+"aplikasi saya" adalah nama proyek React JS Anda
+
+Setelah instalasi, buka direktori proyek dengan 
+menjalankan perintah berikut pada command prompt, " cd my-app "
+
+
+setelah itu ketik "npm start" untuk menjalankan server.
+
+Jika cara ini tidak berhasil, gunakan cara kedua
+
+
+instal " npm install -g react react-dom " dalam cmd
+lalu ketik "npx create-react-app my-app"
+dan masuk ke direktori proyek lalu ketik " cd my-app " di cmd
+ketik "npm start" untuk memulai server
